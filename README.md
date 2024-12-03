@@ -1,0 +1,1 @@
+this is a upcoming project which consists of a client app and a partner app both programs will interfere with both's data to generate Business for the Company and also for the service provider who is registered on our platform
